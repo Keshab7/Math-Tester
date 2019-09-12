@@ -13,5 +13,7 @@ public class MathTester {
         secondNumber = 10;
 
         System.out.println(firstWord+secondWord);
+        System.out.println(firstWord+(firstNumber+secondNumber));
+
     }
 }
